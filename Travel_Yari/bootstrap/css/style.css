@@ -16,6 +16,12 @@ html{
 .carousel-caption{
     bottom: 200px;
 }
+
+
+.img-fluid, .modal-dialog.cascading-modal.modal-avatar .modal-header, .video-fluid {
+    max-width: 100%;
+    height: 70vh;
+}
 @media (max-width: 576px) {
     .carousel-caption{
         bottom: 20px;
@@ -29,6 +35,11 @@ html{
     .companyId{
 
         font-size:20px;
+    }
+
+    .carousel-item{
+
+        height:800px;
     }
 }
 
