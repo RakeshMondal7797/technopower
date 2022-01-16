@@ -41,5 +41,9 @@ html{
 
         height:800px;
     }
+
+    .login{
+        width: 230px!important;
+    }
 }
 
