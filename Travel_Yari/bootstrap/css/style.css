@@ -26,5 +26,9 @@ html{
     .carousel-caption p{
         display: none;
     }
+    .companyId{
+
+        font-size:20px;
+    }
 }
 
