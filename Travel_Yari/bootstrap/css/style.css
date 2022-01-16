@@ -22,6 +22,11 @@ html{
     max-width: 100%;
     height: 70vh;
 }
+
+.inside{
+
+    border-bottom: 2px solid #a1261d;margin-left:-8px;;padding: 12px;
+}
 @media (max-width: 576px) {
     .carousel-caption{
         bottom: 20px;
@@ -42,6 +47,18 @@ html{
         height:800px;
     }
 
-    
+    .login{
+        height: 37px !important;
+        width: 35px !important;
+        
+    }
+
+    .inside{
+
+
+        border-bottom: 1px solid #a1261d!important;
+        margin-left: -6px!important;
+        padding: 7px!important;
+    }
 }
 
