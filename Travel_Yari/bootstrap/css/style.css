@@ -27,6 +27,13 @@ html{
 
     border-bottom: 2px solid #a1261d;margin-left:-8px;;padding: 12px;
 }
+
+.companyLOgo{
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+
+}
 @media (max-width: 576px) {
     .carousel-caption{
         bottom: 20px;
@@ -48,17 +55,26 @@ html{
     }
 
     .login{
-        height: 37px !important;
-        width: 35px !important;
+        height: 70px !important;
+        width: 210px !important;
         
     }
+    .img-fluid{
 
+        margin: 5px;
+    }
     .inside{
 
 
         border-bottom: 1px solid #a1261d!important;
         margin-left: -6px!important;
         padding: 7px!important;
+    }
+    .companyLOgo{
+        height: 200px;
+        width: 200px;
+        margin: 5px;
+    
     }
 }
 
